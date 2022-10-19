@@ -139,7 +139,7 @@ html {
 
   @media (min-width:50rem){
     .product-container{
-        width: 50rem;
+        width: 65rem;
         height: 65vh;
         flex-direction: row;
     }
